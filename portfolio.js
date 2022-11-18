@@ -186,7 +186,7 @@ export const projects = [
     name: 'Water Vapor',
     desc: 'A Steam replica built with ReactJS and ExpressJS',
     github: 'https://github.com/darwin098/Water-Vapor-Frontend',
-    link: 'water-vapor.netlify.app',
+    link: 'https://water-vapor.netlify.app',
   },
 ];
 
