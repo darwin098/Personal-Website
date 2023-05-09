@@ -28,9 +28,9 @@ export const skillsSection = {
       title: 'Full Stack Development',
       lottieAnimationFile: '/lottie/skills/fullstack.json', // Path of Lottie Animation JSON File
       skills: [
-        emoji('⚡ Built a full stack Steam replica in a team using ReactJS'),
-        emoji('⚡ Dabbled in Angular to recreate this porfolio template'),
-        emoji('⚡ Hosting of websites with Netlify'),
+        '⚡ Built a full stack Steam replica in a team using ReactJS',
+        '⚡ Dabbled in Angular to recreate this porfolio template',
+        '⚡ Hosting of websites with Netlify',
       ],
       softwareSkills: [
         {
@@ -67,11 +67,9 @@ export const skillsSection = {
       title: 'Backend Experiences',
       lottieAnimationFile: '/lottie/skills/cloudinfra.json', // Path of Lottie Animation JSON File
       skills: [
-        emoji(
-          '⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases'
-        ),
-        emoji('⚡ Building servers with SQL (PostgreSQL, MySQL)'),
-        emoji('⚡ Dabbled in MongoDB and NoSQL'),
+        '⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases',
+        '⚡ Building servers with SQL (PostgreSQL, MySQL)',
+        '⚡ Dabbled in MongoDB and NoSQL',
       ],
       softwareSkills: [
         // ? Check README To get icon details
@@ -93,10 +91,8 @@ export const skillsSection = {
       title: 'Blockchain',
       lottieAnimationFile: '/lottie/skills/ethereum.json', // Path of Lottie Animation JSON File
       skills: [
-        emoji(
-          '⚡ Dabbled in beginner Smart Contracts using Solidity & Ethereum'
-        ),
-        emoji('⚡ Interested in developing practical dApps using Solidity'),
+        '⚡ Dabbled in beginner Smart Contracts using Solidity & Ethereum',
+        '⚡ Interested in developing practical dApps using Solidity',
       ],
       softwareSkills: [
         {
